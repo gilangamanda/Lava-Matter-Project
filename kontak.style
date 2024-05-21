@@ -1,0 +1,29 @@
+
+.card {
+    height: 100%;
+}
+
+.card-body {
+    overflow: hidden;
+}
+
+.liked-items {
+    display: none;
+    /* Initially hide the liked items */
+}
+body {
+
+    
+    background-image: url('/images/delevasi4.jpg');
+    /* Atur ukuran latar belakang */
+    background-size: cover;
+    /* Posisi latar belakang */
+    background-position: center;
+    /* Tetapkan latar belakang tetap saat menggulir halaman */
+    background-attachment: fixed;
+}
+
+
+
+
+
