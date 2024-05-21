@@ -1,0 +1,17 @@
+.login-container {
+    border-radius: 10px; /* Untuk membulatkan sudut kotak */
+    padding: 10px; /* Untuk memberikan ruang di sekitar konten */
+    margin: auto; /* Untuk mengatur posisi form di tengah */
+    max-width: 800px; /* Sesuaikan lebar maksimal form */
+}
+
+body {
+    background-image: url('/images/delevasi.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    overflow: hidden;
+    display: flex; /* Menggunakan flexbox untuk memusatkan secara vertikal */
+    justify-content: center; /* Memusatkan secara horizontal */
+    align-items: center; /* Memusatkan secara vertikal */
+}
