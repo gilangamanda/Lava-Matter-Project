@@ -1,0 +1,41 @@
+
+.custom-search-btn {
+    background-color: rgb(144, 238, 144); /* Mengganti warna latar belakang menjadi hijau pastel */
+    border-color: lightgreen; /* Mengganti warna border menjadi hijau pastel */
+}
+
+.card {
+    height: 100%;
+}
+
+.card-body {
+    overflow: hidden;
+}
+
+.liked-items {
+    display: none;
+    /* Initially hide the liked items */
+}
+body {
+
+    
+    background-image: url('/images/delevasi4.jpg');
+    /* Atur ukuran latar belakang */
+    background-size: cover;
+    /* Posisi latar belakang */
+    background-position: center;
+    /* Tetapkan latar belakang tetap saat menggulir halaman */
+    background-attachment: fixed;
+}
+.menu-item {
+    margin-left: 50px;
+    margin-bottom: 20px; /* Ubah sesuai kebutuhan Anda */
+    background-color: #f9f9f9; /* Hanya sebagai contoh untuk melihat jarak dengan lebih jelas */
+}
+
+
+
+
+
+
+
